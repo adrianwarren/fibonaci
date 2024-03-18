@@ -1,4 +1,5 @@
 # 03_03 Run scripts from the pipeline
+[![Build Status](http://18.190.135.81/buildStatus/icon?job=fibonaci)](http://18.190.135.81/job/fibonaci/)
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
